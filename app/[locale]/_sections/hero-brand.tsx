@@ -40,6 +40,7 @@ export default function HeroBrand() {
           src={BannerImg}
           alt="Image"
           className="rounded-md object-cover w-full h-full"
+          priority
         />
       </AspectRatio>
     </div>
