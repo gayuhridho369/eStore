@@ -1,0 +1,28 @@
+{
+  "Brand": {
+    "name": "eStore",
+    "moto": "Your Business Solutions",
+    "description": "Discover the best online shopping experience with a wide range of high-quality products, competitive prices, and excellent customer service. From fashion and electronics to daily essentials, we provide everything you need on a secure and user-friendly platform.",
+    "learn_more": "Learn More",
+    "contact_us": "Contact Us",
+    "copyright": "Copyright",
+    "all_rights_reserved": "All Rights Reserved."
+  },
+  "Menu": {
+    "home": "Home",
+    "article": "Article",
+    "career": "Career",
+    "about_us": "About Us"
+  },
+  "Product": {
+    "title": "Our Ready Products",
+    "description": "Our eCommerce solution is designed to help businesses create seamless and high-performing online stores. We provide a fully optimized, user-friendly shopping experience with secure payment gateways, intuitive product navigation, and fast-loading pages.",
+    "sort_by_name": "Sort by Name",
+    "sort_by_price": "Sort by Price"
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "description": "Please check the URL or return to the homepage.",
+    "button": "Back to Home"
+  }
+}

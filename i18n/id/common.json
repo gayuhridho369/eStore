@@ -1,0 +1,28 @@
+{
+  "Brand": {
+    "name": "eStore",
+    "moto": "Solusi Bisnis Anda",
+    "description": "Temukan pengalaman belanja online terbaik dengan koleksi produk berkualitas, harga kompetitif, dan layanan pelanggan terbaik. Kami menghadirkan berbagai pilihan dari fashion, elektronik, hingga kebutuhan sehari-hari, semua dalam satu platform yang mudah digunakan dan aman.",
+    "learn_more": "Pelajari",
+    "contact_us": "Hubungi Kami",
+    "copyright": "Hak Cipta",
+    "all_rights_reserved": "Semua Hak Dilindungi."
+  },
+  "Menu": {
+    "home": "Beranda",
+    "article": "Artikel",
+    "career": "Karir",
+    "about_us": "Tentang Kami"
+  },
+  "Product": {
+    "title": "Produk Kami",
+    "description": "Solusi eCommerce kami dirancang untuk membantu bisnis menciptakan toko online yang mulus dan berkinerja tinggi. Kami menyediakan pengalaman berbelanja yang sepenuhnya dioptimalkan, ramah pengguna, dengan gateway pembayaran yang aman, navigasi produk yang intuitif, dan halaman yang memuat dengan cepat.",
+    "sort_by_name": "Urutkan Nama",
+    "sort_by_price": "Urutkan Harga"
+  },
+  "NotFound": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Silahkan periksa URL atau kembali ke beranda.",
+    "button": "Kembali ke Beranda"
+  }
+}
