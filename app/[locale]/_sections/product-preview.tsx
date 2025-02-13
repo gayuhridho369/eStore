@@ -20,7 +20,7 @@ export default function ProductPreview({
       <DialogContent className="w-full max-w-[600px]">
         <DialogHeader>
           <DialogTitle asChild>
-            <h1 className="font-medium">{data.name || "No Image Name"}</h1>
+            <h1 className="font-medium mb-2">{data.name || "No Image Name"}</h1>
           </DialogTitle>
           <DialogDescription asChild>
             <p className="font-semibold text-sm bg-orange-500 text-primary-foreground w-fit px-2 rounded-sm">

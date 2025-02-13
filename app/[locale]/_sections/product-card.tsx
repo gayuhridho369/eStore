@@ -28,7 +28,7 @@ export default function ProductCard({
 
       <div className="flex flex-col md:flex-row gap-2 justify-between px-3 py-4">
         <div className="flex flex-col w-[80%]">
-          <h1 className="font-medium w-[80%] truncate">
+          <h1 className="font-medium w-[80%] truncate mb-2">
             {product.name || "No Image Name"}
           </h1>
           <p className="font-semibold text-sm bg-orange-500 text-primary-foreground w-fit px-2 rounded-sm">
