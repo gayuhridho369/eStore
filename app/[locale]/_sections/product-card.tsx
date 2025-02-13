@@ -31,14 +31,14 @@ export default function ProductCard({
           <h1 className="font-medium w-[80%] truncate mb-2">
             {product.name || "No Image Name"}
           </h1>
-          <p className="font-semibold text-sm bg-orange-500 text-primary-foreground w-fit px-2 rounded-sm">
+          <p className="font-semibold text-sm bg-orange-500/80 text-primary-foreground w-fit px-2 rounded-sm">
             {new Intl.NumberFormat("id-ID", {
               style: "currency",
               currency: "IDR",
             }).format(product.price)}
           </p>
         </div>
-        <Button size="icon" variant="outline">
+        <Button size="icon" variant="outline" aria-label="Cart">
           <ShoppingCart />
         </Button>
       </div>

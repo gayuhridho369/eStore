@@ -72,7 +72,12 @@ export default function BaseLayout({
 
           <Sheet>
             <SheetTrigger asChild>
-              <Button className="flex md:hidden" variant="outline" size="sm">
+              <Button
+                className="flex md:hidden"
+                variant="outline"
+                size="sm"
+                aria-label="Menu"
+              >
                 <Menu />
               </Button>
             </SheetTrigger>
